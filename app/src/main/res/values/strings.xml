@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Camp</string>
+    <string name="main_tab_todo_title">ToDo</string>
+    <string name="main_tab_bookmark_title">BookMark</string>
+    <string name="main_fab_todo_add_content_description">할일 추가 버튼</string>
+</resources>
