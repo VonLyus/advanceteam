@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/playSetChange"
+        android:icon="@drawable/playset"
+        android:title="PlaySet"
+        />
+
+    <item
+        android:id="@+id/reset_empty"
+        android:title=""
+        android:enabled="false"
+        android:checkable="false"
+        />
+
+    <item
+        android:id="@+id/totalResult"
+        android:icon="@drawable/result"
+        android:title="Result"
+        />
+</menu>
+
+<!--
+    <item
+        android:id="@+id/userBallAutoChange"
+        android:icon="@drawable/reset"
+        android:title="UserBall"
+        />
+        <item
+        android:id="@+id/BallAutoChange"
+        android:icon="@drawable/resetuser"
+        android:title="BallReset"
+        />-->

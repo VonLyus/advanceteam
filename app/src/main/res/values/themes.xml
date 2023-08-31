@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PowerBallVer" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<!--        <item name="bottomNavigationStyle">@style/CustomBottomNavigationViewStyle</item>-->
+    </style>
+
+<!--    <style name="CustomBottomNavigationViewStyle" parent="Widget.Material3.BottomNavigationView">-->
+<!--        &lt;!&ndash; 원하는 디자인을 여기서 설정합니다 &ndash;&gt;-->
+<!--        <item name="itemIconTint">@drawable/menu_click_color</item>-->
+<!--        <item name="itemTextColor">@drawable/menu_click_color</item>-->
+<!--        <item name="itemBackground">@drawable/bottom_nav_item_background</item>-->
+<!--    </style>-->
+    <style name="RoundedFab" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Theme.PowerBallVer" parent="Base.Theme.PowerBallVer" />
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#99000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="TransparentGray">#4DFFFFFF</color>
+    <color name="TransparentGray1">#4D808080</color>
+    <color name="TransparentGray2">#343a40</color>
+    <color name="TransparentGray3">#212529</color>
+    <color name="TransparentGray4">#B8B8B8</color>
+    <color name="TransparentGray5">#61677A</color>
+    <color name="TransparentGray6">#00ABB3</color>
+    <color name="toolbar_set2">#8033BBC5</color>
+    <!-- 빨, 주, 노, 초, 파, 남, 보   -->
+    <color name="ballColor">#80ff0000</color>
+    <color name="ballColor1">#80ff8c00</color>
+    <color name="ballColor2">#80ffff00</color>
+    <color name="ballColor3">#80008000</color>
+    <color name="ballColor4">#800000ff</color>
+    <color name="ballColor5">#804b0082</color>
+</resources>
